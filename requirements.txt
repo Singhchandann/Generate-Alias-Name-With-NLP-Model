@@ -1,0 +1,6 @@
+pandas
+ai4bharat-transliteration
+grapheme
+tqdm
+inference-engine
+#Download IndicTrans2 Model for translation for more info check out their official github repo.
