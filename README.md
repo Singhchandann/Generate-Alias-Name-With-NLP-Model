@@ -29,4 +29,4 @@ Generate-alias-name-with-NLP-Model/
 
 ## Project Overview
 
-This project uses the ai4bharat transliteration engine and a custom fairseq model to generate combinations of alias names for a list of full names.
+This project uses the ai4bharat transliteration engine and a IndicTrans2 fairseq model to generate combinations of alias names for a list of full names.
